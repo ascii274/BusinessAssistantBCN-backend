@@ -46,6 +46,7 @@ tmp/
 .iml/
 .idea/
 .gradle/
+.mvn/wrapper/maven-wrapper.jar
 *.classpath
 *.project
 *.tern-project
